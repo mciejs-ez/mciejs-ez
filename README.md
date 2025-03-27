@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, i am a developer of Lightbulb 👋
 ## I am a dumbass!
 
 <!--
